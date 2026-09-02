@@ -1,0 +1,14 @@
+D:\fundamentos\repetitivas\bin\Debug\net10.0\repetitivas.exe
+D:\fundamentos\repetitivas\bin\Debug\net10.0\repetitivas.deps.json
+D:\fundamentos\repetitivas\bin\Debug\net10.0\repetitivas.runtimeconfig.json
+D:\fundamentos\repetitivas\bin\Debug\net10.0\repetitivas.dll
+D:\fundamentos\repetitivas\bin\Debug\net10.0\repetitivas.pdb
+D:\fundamentos\repetitivas\obj\Debug\net10.0\repetitivas.GeneratedMSBuildEditorConfig.editorconfig
+D:\fundamentos\repetitivas\obj\Debug\net10.0\repetitivas.AssemblyInfoInputs.cache
+D:\fundamentos\repetitivas\obj\Debug\net10.0\repetitivas.AssemblyInfo.cs
+D:\fundamentos\repetitivas\obj\Debug\net10.0\repetitivas.csproj.CoreCompileInputs.cache
+D:\fundamentos\repetitivas\obj\Debug\net10.0\repetitivas.dll
+D:\fundamentos\repetitivas\obj\Debug\net10.0\refint\repetitivas.dll
+D:\fundamentos\repetitivas\obj\Debug\net10.0\repetitivas.pdb
+D:\fundamentos\repetitivas\obj\Debug\net10.0\repetitivas.genruntimeconfig.cache
+D:\fundamentos\repetitivas\obj\Debug\net10.0\ref\repetitivas.dll
