@@ -5,9 +5,9 @@ System.Console.WriteLine("Ingreso de notas de curso");
 int x=0;
 while(x==0)
 {
-    for(int i=0;i<2;i++)
+    for(int i=0;i<3;i++)
     {
-        System.Console.WriteLine("Ingrese nota");
+        System.Console.WriteLine("Ingrese nota "+(i+1) );
         int nota = int.Parse(Console.ReadLine());
     }
 

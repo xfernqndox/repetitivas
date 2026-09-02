@@ -12,3 +12,4 @@ D:\fundamentos\repetitivas\obj\Debug\net10.0\refint\repetitivas.dll
 D:\fundamentos\repetitivas\obj\Debug\net10.0\repetitivas.pdb
 D:\fundamentos\repetitivas\obj\Debug\net10.0\repetitivas.genruntimeconfig.cache
 D:\fundamentos\repetitivas\obj\Debug\net10.0\ref\repetitivas.dll
+D:\fundamentos\repetitivas\obj\Debug\net10.0\repetitivas.sourcelink.json
